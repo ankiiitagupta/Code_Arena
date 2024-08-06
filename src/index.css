@@ -142,8 +142,8 @@ main{
   font-weight:400;
   background-image: radial-gradient(
     circle farthest-corner at 3.2% 49.6%,
-    rgba(47, 45, 50, 0.87) 0%,
-    rgba(110, 107, 110, 0.72) 83.6%
+    rgba(93, 93, 94, 0.87) 0%,
+    rgba(219, 210, 219, 0.72) 83.6%
   );
   border: 2px solid rgb(74, 73, 73);
   border-radius: 30px;
